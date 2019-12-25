@@ -1,0 +1,3 @@
+#include<isostream>
+int main(void)
+std::out <<"hello,world"!
